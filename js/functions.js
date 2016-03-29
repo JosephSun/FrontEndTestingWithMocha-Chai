@@ -14,3 +14,5 @@ Cow.prototype =  {
     return `${this.name} greets ${target}`;
   },
 };
+
+module.exports = Cow; 
