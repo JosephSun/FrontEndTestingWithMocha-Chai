@@ -1,3 +1,3 @@
 function isEven(num) {
-  return true;
+  return num%2 === 0;
 }
