@@ -9,5 +9,9 @@ describe('Compare Numbers', function() {
 
   it('2 should be greater than 1', function() {
     expect(2).to.be.greaterThan(1);
-  })
+  });
 });
+
+function isEven(num) {
+
+}
