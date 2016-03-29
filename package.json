@@ -1,0 +1,23 @@
+{
+  "name": "frontendtestingwithmocha-chai",
+  "version": "1.0.0",
+  "description": "enjoying some testing with mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephSun/FrontEndTestingWithMocha-Chai.git"
+  },
+  "author": "Joseph Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephSun/FrontEndTestingWithMocha-Chai/issues"
+  },
+  "homepage": "https://github.com/JosephSun/FrontEndTestingWithMocha-Chai#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
